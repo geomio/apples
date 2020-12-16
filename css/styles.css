@@ -1,0 +1,72 @@
+body{ 
+  background-color: red;
+}
+
+h1{ margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
+  text-align: center;
+}
+
+h3{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
+  text-align: center;
+}
+
+ol{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
+  text-align: center;
+  list-style-position: inside;
+}
+
+ul{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
+  text-align: center;
+  list-style-position: inside;
+}
+
+li{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
+  text-align: center;
+  list-style-position: inside;
+}
+
+p.intro{
+  text-align: center;
+}
+
+p.author{
+  text-align: center;
+}
+p.end{
+  text-align: center;
+}
+
+p.pics{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
